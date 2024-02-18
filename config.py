@@ -1,12 +1,12 @@
-api_id = 17193413
+api_id = 9315174
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "6bdf32d081bcf4361f0654f092efe7d7"
 
-bot_token = "6094200729:AAF7U2jM_T35Wb4nWdvPdndFNjtZ7oQeTTA"
+bot_token = "6174382218:AAElWZZaxWx8_tBwEbuNYUTNwvmiovrOp1U"
 
 GROUP_TAG = "RC"
 
-sudo_users = [1606667548]
+sudo_users = [1183057352]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
